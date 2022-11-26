@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://supply-chain-self-assessment.unglobalcompact.org/sitemap.xml
